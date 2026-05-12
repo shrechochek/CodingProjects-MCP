@@ -9,4 +9,4 @@ node_modules/
 
 # Secrets
 .env
-coockies.json
+cookies.json
