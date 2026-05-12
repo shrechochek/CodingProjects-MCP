@@ -1,0 +1,134 @@
+[
+  {
+    "name": "_ym_uid",
+    "value": "177861164876190460",
+    "domain": ".codingprojects.ru",
+    "path": "/",
+    "expires": 1810147647,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_d",
+    "value": "1778611648",
+    "domain": ".codingprojects.ru",
+    "path": "/",
+    "expires": 1810147647,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_isad",
+    "value": "2",
+    "domain": ".codingprojects.ru",
+    "path": "/",
+    "expires": 1778683647,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yabs-sid",
+    "value": "2232888271778611647",
+    "domain": "mc.yandex.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "i",
+    "value": "qq4NnwuBDMVtX+cCUVmZLOOt7+ih34shqJURQogvQvuvhxSKsj3oTAmfM4KZfGry9yYW+lEUAkHUkj+RKciVLJmJ/ds=",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1813171647.746028,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yandexuid",
+    "value": "6854843071778611647",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1813171647.746045,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yuidss",
+    "value": "6854843071778611647",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1813171647.746057,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ymex",
+    "value": "2093971647.yrts.1778611647#2093971647.yrtsi.1778611647",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1810147647,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1810147647,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://codingprojects.ru",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "bh",
+    "value": "EigiTm90L0EpQnJhbmQiO3Y9Ijk5IiwgIkNocm9taXVtIjt2PSIxNDgiGgNhcm0iDTE0OC4wLjc3NzguOTYqAj8wOgcibWFjT1MiQgYyNi40LjFKAjY0UjciTm90L0EpQnJhbmQiO3Y9Ijk5LjAuMC4wIiwiQ2hyb21pdW0iO3Y9IjE0OC4wLjc3NzguOTYiYL/rjdAGaiHcytG2Abvxn6sE+taGzAjS0e3rA/y5r/8H3/3PggnzgQI=",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1813171647,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_visorc",
+    "value": "w",
+    "domain": ".codingprojects.ru",
+    "path": "/",
+    "expires": 1778613447,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6Ik9IaEhZUVByTTlmK1FGcXB3UCthM0E9PSIsInZhbHVlIjoiTkNBc0hZOEtVNkpHMW8ySmU3RHBZUWhLOTBucDE5WXB5NEVqRE5rRnBaRXN1d1NRcld5Q3pEMGJmSm9WVG1LWUxLaFRhbTJLeDhKN3ZKa1ZPZzFpb3pBaC9CNkN1VGV0azlsUUJRL1JNYkZsT1ZqeGtDKzZHMjlVUHF3a2UxKzYiLCJtYWMiOiI5YTQwYWJkNTk1OTlmMjVkNGYxN2UxZmM4OWUyZTQwZTUwNDZmMTAyN2FlYWJhYjI2OGFkMTc4ZjBjMDMxZWZhIiwidGFnIjoiIn0%3D",
+    "domain": "codingprojects.ru",
+    "path": "/",
+    "expires": 1778618850.921433,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "laravel_session",
+    "value": "eyJpdiI6InQ5NmY1VHNWZ1pKeUZjUzZyTzl5WkE9PSIsInZhbHVlIjoicjU0cDJvOG8vVGdRUXRnSWZnM0wwN1BxeXNyZVNtYzViNU5maVNRbU8raVlKYUMyTHJJK0JseXJIdEsyZC9pUkk0aGZNb3Y0d1ZUREt6RytzdDJBWVkrcGtDVWNDNVRJZlA0dVNiZmorMzI2eDcycU1rNThkSzFHUXFFL1BidmciLCJtYWMiOiIwZDUxMWNiNTJiODhhZThmNGRjZGUwN2UyOGU5MjFhNzI2ZWFhMzEzYjQxMzZkYzRlOTQ5MTI1MWNmNGZjYTk3IiwidGFnIjoiIn0%3D",
+    "domain": "codingprojects.ru",
+    "path": "/",
+    "expires": 1778618850.921526,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
